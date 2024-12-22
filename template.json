@@ -1,0 +1,91 @@
+{
+  "family": {
+    "name": "Famille Dupont",
+    "members": [
+      {
+        "id": 1,
+        "name": "Robert Dupont",
+        "birthYear": 1930,
+        "spouseId": 2,
+        "childrenIds": [5, 6]
+      },
+      {
+        "id": 2,
+        "name": "Madeleine Giraud",
+        "birthYear": 1932,
+        "spouseId": 1,
+        "childrenIds": [5, 6]
+      },
+      {
+        "id": 3,
+        "name": "Henri Martin",
+        "birthYear": 1928,
+        "spouseId": 4,
+        "childrenIds": [7]
+      },
+      {
+        "id": 4,
+        "name": "Suzanne Leroy",
+        "birthYear": 1930,
+        "spouseId": 3,
+        "childrenIds": [7]
+      },
+      {
+        "id": 5,
+        "name": "Paul Dupont",
+        "birthYear": 1955,
+        "spouseId": 7,
+        "childrenIds": [9, 10]
+      },
+      {
+        "id": 6,
+        "name": "Claudine Dupont",
+        "birthYear": 1958,
+        "spouseId": null,
+        "childrenIds": []
+      },
+      {
+        "id": 7,
+        "name": "Claudine Martin",
+        "birthYear": 1958,
+        "spouseId": 5,
+        "childrenIds": [9, 10]
+      },
+      {
+        "id": 9,
+        "name": "Jean Dupont",
+        "birthYear": 1985,
+        "spouseId": 11,
+        "childrenIds": [12, 13]
+      },
+      {
+        "id": 10,
+        "name": "Sophie Dupont",
+        "birthYear": 1988,
+        "spouseId": null,
+        "childrenIds": []
+      },
+      {
+        "id": 11,
+        "name": "Marie Laurent",
+        "birthYear": 1987,
+        "spouseId": 9,
+        "childrenIds": [12, 13]
+      },
+      {
+        "id": 12,
+        "name": "Emma Dupont",
+        "birthYear": 2015,
+        "spouseId": null,
+        "childrenIds": []
+      },
+      {
+        "id": 13,
+        "name": "Lucas Dupont",
+        "birthYear": 2018,
+        "spouseId": null,
+        "childrenIds": []
+      }
+    ]
+  }
+}
