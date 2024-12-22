@@ -1,0 +1,16 @@
+/frontend/node_modules/*
+/.idea/vcs.xml
+/.idea/workspace.xml
+/build/bin/sovereignty.app/Contents/Resources/iconfile.icns
+/build/bin/sovereignty.app/Contents/Info.plist
+/build/darwin/Info.dev.plist
+/build/darwin/Info.plist
+/build/windows/installer/project.nsi
+/build/windows/installer/wails_tools.nsh
+/build/windows/icon.ico
+/build/windows/info.json
+/build/windows/wails.exe.manifest
+/build/appicon.png
+/build/README.md
+
+.DS_Store
